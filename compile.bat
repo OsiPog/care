@@ -1,0 +1,1 @@
+"C:\Program Files\Python\Python39\Scripts\pyinstaller" -w -F -i "assets\icon.ico" care.py
